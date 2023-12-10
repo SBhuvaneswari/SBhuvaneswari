@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SBhuvaneswari
-- I am a Research Scholar at Central University of Tamil Nadu
+- I am a Research Scholar at Central University of Tamil Nadu and it's my new start and I am looking forward to it.
 - I am interested in Machine Learning, Deep Learning, Natural Language Processing
 - I started creating blogs on ML, DL, NLP, and other computer science core subjects
 - I love teaching others regarding the subjects related to the core Computer science subjects
